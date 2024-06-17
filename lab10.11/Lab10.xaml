@@ -28,7 +28,7 @@
                 <MenuItem Header="Создать..." Click="MenuItem_Click" />
                 <MenuItem Header="Открыть..." Click="MenuItem_Click_1" />
                 <MenuItem Header="Сохранить как..." Click="MenuItem_Click_2" />
-                <!-- Новый элемент меню -->
+                
                 <MenuItem Header="Копировать файл..." Click="MenuItem_Click_CopyFile" />
                 <Separator />
                 <MenuItem Header="Выход" />
